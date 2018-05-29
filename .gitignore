@@ -1,3 +1,4 @@
 *.zip
-activitywatch_*/opt
+activitywatch_*
+!activitywatch_template
 *.deb
