@@ -1,0 +1,8 @@
+Package: activitywatch
+Architecture: amd64
+Maintainer: Erik Bjäreholt <erik@bjareho.lt>
+Depends:
+Priority: optional
+Version: 0.8.0b2
+Description: Open source time tracker
+ https://github.com/ActivityWatch/activitywatch
